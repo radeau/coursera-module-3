@@ -1,0 +1,45 @@
+#brandName {
+	font-size: 2.5rem;
+}
+
+#menuList {
+	text-align: center;.
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+#menuList a:hover {
+	background-color: #D3D3D3;
+	text-decoration: none;
+	color: #284646;
+	font-weight: bold;
+	font-size: 1.1rem; 
+}
+
+div .text-center h1 {
+	margin-bottom: 0px;
+}
+
+.bgColor {
+	border: 2px solid #000;
+	background-color: #3D4849;
+}
+
+.bgColor p {
+	color: #FFFDD0;
+}
+
+.padding {
+	padding: 1rem;
+}
+
+div #chicken h4 {
+	color: #D59898;
+}
+
+div #beef h4 {
+	color: #C14543;
+}
+
+div #sushi h4 {
+	color: #E5D198;
+}
